@@ -37,3 +37,5 @@ En la carpeta recursos/, encontrarás enlaces útiles y tutoriales que te ayudar
 Imágenes
 
 En la carpeta imágenes/ tenemos dos ejemplos de diferentes modelos Entidad-Relación con dos programas: Lucidchart y MySQL.
+
+https://github.com/Moniflor/Bases_de_datos_intro/blob/main/foto2/Modelo%20ER%20MySQL.png
