@@ -7,8 +7,8 @@ Contenido
 El repositorio está estructurado de la siguiente manera:
 
 1. README.md: Este archivo README que brinda una descripción general del repositorio.
-2. examples/: Esta carpeta contiene ejemplos prácticos que ilustran diferentes conceptos relacionados con bases de datos.
-3. resources/: En esta carpeta se encuentran enlaces útiles, tutoriales y otros recursos relacionados con las bases de datos.
+2. ejemplos/: Esta carpeta contiene ejemplos prácticos que ilustran diferentes conceptos relacionados con bases de datos.
+3. recursos/: En esta carpeta se encuentran enlaces útiles, tutoriales y otros recursos relacionados con las bases de datos.
 
 ¿Qué son las Bases de Datos?
 
@@ -16,17 +16,17 @@ Una base de datos es una colección estructurada de información organizada y ac
 
 Ejemplos
 
-En la carpeta examples/, encontrarás ejemplos prácticos que te ayudarán a comprender cómo trabajar con bases de datos. Cada ejemplo está en su propia carpeta y contiene una breve descripción junto con el código y los archivos necesarios.
+En la carpeta ejemplos/, encontrarás ejemplos prácticos que te ayudarán a comprender cómo trabajar con bases de datos. Cada ejemplo está en su propia carpeta y contiene una breve descripción junto con el código y los archivos necesarios.
 
 Los ejemplos incluidos son:
 
-1. example1/: Introducción a SQL (Structured Query Language). Este ejemplo presenta el lenguaje SQL y cómo utilizarlo para crear y consultar una base de datos simple.
+1. ejemplo1/: Introducción a SQL (Structured Query Language). Este ejemplo presenta el lenguaje SQL y cómo utilizarlo para crear y consultar una base de datos simple.
 
-2. example3/: Diseño de bases de datos relacionales. Aquí se muestra cómo diseñar una base de datos relacional utilizando diagramas entidad-relación y cómo convertirlos en tablas y relaciones.
+2. ejemplo2/: Diseño de bases de datos relacionales. Aquí se muestra cómo diseñar una base de datos relacional utilizando diagramas entidad-relación y cómo convertirlos en tablas y relaciones.
 
 Recursos Adicionales
 
-En la carpeta resources/, encontrarás enlaces útiles y tutoriales que te ayudarán a profundizar tus conocimientos sobre bases de datos. Estos recursos incluyen:
+En la carpeta recursos/, encontrarás enlaces útiles y tutoriales que te ayudarán a profundizar tus conocimientos sobre bases de datos. Estos recursos incluyen:
 
 - Enlaces a documentación oficial de bases de datos populares, como MySQL, PostgreSQL y SQLite.
 - Tutoriales y cursos en línea recomendados para aprender más sobre bases de datos y su uso en diferentes lenguajes de programación.
