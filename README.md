@@ -9,6 +9,8 @@ El repositorio está estructurado de la siguiente manera:
 1. README.md: Este archivo README que brinda una descripción general del repositorio.
 2. ejemplos/: Esta carpeta contiene ejemplos prácticos que ilustran diferentes conceptos relacionados con bases de datos.
 3. recursos/: En esta carpeta se encuentran enlaces útiles, tutoriales y otros recursos relacionados con las bases de datos.
+4. imágenes/: En esta carpeta se encuentran imágenes de dos ejemplos de modelo Entidad-Relación con diferentes programas: Lucidchart y MySQL.
+
 
 ¿Qué son las Bases de Datos?
 
@@ -32,4 +34,6 @@ En la carpeta recursos/, encontrarás enlaces útiles y tutoriales que te ayudar
 - Tutoriales y cursos en línea recomendados para aprender más sobre bases de datos y su uso en diferentes lenguajes de programación.
 - Artículos y blogs relevantes que cubren temas avanzados en bases de datos, como optimización de consultas, diseño de bases de datos no relacionales y más.
 
+Imágenes
 
+En la carpeta imágenes/ tenemos dos ejemplos de diferentes modelos Entidad-Relación con dos programas: Lucidchart y MySQL.
