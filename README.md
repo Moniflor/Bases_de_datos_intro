@@ -16,6 +16,18 @@ El repositorio está estructurado de la siguiente manera:
 
 Una base de datos es una colección estructurada de información organizada y accesible en un formato específico. Se utilizan para almacenar y gestionar datos de manera eficiente, permitiendo la creación, modificación, consulta y eliminación de información.
 
+Son fundamentales para almacenar y administrar gran cantidad de información de manera eficiente y confiable.
+
+Existen dos tipos principales
+
+1. Relacionales
+
+Usan el modelo realcional para organizar los datos en tablas con filas y columnas, donde cada fila representa una entidad y cada columna representa un atributo de la misma. Utilizan el lenguaje SQL para consultar y manipular la información.
+
+2. No relacionales (No SQL)
+
+Estas bases de datos utilizan modelos de datos más diversos como documentos, imágenes, vídeos. Están orientadas a objetos. Utilizan otro tipo de lenguaje que no es SQL.
+
 Ejemplos
 
 En la carpeta ejemplos/, encontrarás ejemplos prácticos que te ayudarán a comprender cómo trabajar con bases de datos. Cada ejemplo está en su propia carpeta y contiene una breve descripción junto con el código y los archivos necesarios.
